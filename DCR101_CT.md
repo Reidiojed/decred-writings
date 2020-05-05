@@ -1,6 +1,6 @@
 # Introducción a Decred: una reserva de valor segura, adaptable y sustentable
 
-Decred es una criptomoneda enfocada en el mismo segmento que Bitcoin, la reserva de valor. Esta moneda al surgió al unir la visión del uno de los creadores de Monero, un energético forista anónimo y un equipo de desarrolladores que acababa de crear una implementación alternativa de Bitcoin, reescribiendo completamente el código de un nodo usando go-lang. Todos coincidieron en tres puntos: Bitcoin necesita financiación, debe ser independiente y deberían ser los holders quienes tomen las decisiones.
+Decred es una criptomoneda enfocada en el mismo segmento que Bitcoin, la reserva de valor. Esta moneda surgió al unir la visión de uno de los creadores de Monero, un energético forista anónimo y un equipo de desarrolladores que acababa de crear una implementación alternativa de Bitcoin, reescribiendo completamente el código de un nodo usando go-lang. Todos coincidieron en tres puntos: Bitcoin necesita financiación, debe ser independiente y deberían ser los 'holders' (poseedores de la moneda) quienes tomen las decisiones.
 
 Lanzada en 2016, la red Decred fue desarrollada implementando aquellos componentes de Bitcoin que demostraron ser exitosos como el diseño de la blockchain basado en transacciones, el límite de 21 millones y el sistema de minería Proof-of-Work. Pero para solucionar los problemas detectados, se agregó un sistema de votación Proof-of-Stake y un Tesoro que acumula parte del DCR generado para financiar proyectos sin depender de empresas o inversores.
 
@@ -14,7 +14,7 @@ Bitcoin, y el grupo Satoshi Nakamoto, se encargaron de quitar a gran parte de lo
 
 En estos entornos donde no hay posiciones ni sueldos, la reputación lo es todo. Si se combina este escenario con la falta de estructuras de gobierno formales, se forman pequeñas élites que se ven favorecidas y consolidan su posición de poder.
 
-A diferencia de Bitcoin, Decred busca poder adaptarse y mejorar su tecnología constantemente. La implementación del sistema Proof-of-Stake permite que quienes tienen Decred y están dispuestos a afrontar el riesgo de holdear el activo tengan poder de decisión. Así, con mecanismos formales que incluyen discusiones y votaciones, el colectivo de stakeholders puede coordinar para invertir los fondos del Tesoro en lograr sus objetivos, sea modificar el software, construir un exchange descentralizado u organizar eventos online.
+A diferencia de Bitcoin, Decred busca poder adaptarse y mejorar su tecnología constantemente. La implementación del sistema Proof-of-Stake permite que quienes tienen Decred y están dispuestos a afrontar el riesgo de holdear el activo tengan poder de decisión. Así, con mecanismos formales que incluyen discusiones y votaciones, el colectivo de 'stakeholders' (partes interesadas, o sea holders) puede coordinar para invertir los fondos del Tesoro en lograr sus objetivos, sea modificar el software, construir un exchange descentralizado u organizar eventos online.
 
 Esta variación motivó el desarrollo de distintas plataformas que más allá de las posibilidades económicas, indaga también en el potencial de las Organizaciones Autónomas Descentralizadas (DAO) y las formas de coordinación social. El resultado incluye un exchange descentralizado, un foro inmutable para discutir propuestas, un sistema de votación on-chain y un sistema de facturación y gestión de contratistas transparente y descentralizado, que detallaremos más abajo.
 
@@ -32,7 +32,7 @@ Decred incentiva la participación en la seguridad y la toma de decisiones, quie
 
 Los holders de Decred pueden participar en el sistema PoS al congelar su DCR a cambio de tickets. Los tickets brindan poder de voto y se usan para determinar los cambios a las reglas de consenso, la validez de los bloques encontrados por los mineros, el uso que se le da a los fondos del Tesoro y otras políticas dentro de Decred.
 
-Para participar de la votación Proof-of-Stake, quienes tienen DCR pueden usarlo para comprar tickets. Esto implica congelar una cantidad de DCR determinada por la dificultad de la red, también conocida como el precio del ticket. Al hacerlo, recibe un ticket que será llamado a votar en un bloque mediante una lotería aleatoria. En promedio, los tickets tardan 28 días en ser llamados a votar y el precio actual puede ser consultado usando dcrdata, el explorador de bloques de Decred.
+Para participar de la votación Proof-of-Stake, quienes tienen DCR pueden usarlo para comprar tickets. Esto implica congelar una cantidad de DCR determinada por la dificultad de la red, también conocida como el precio del ticket. Al hacerlo, recibe un ticket que será llamado a votar en un bloque mediante una lotería aleatoria. En promedio, los tickets tardan 28 días en ser llamados a votar y el precio actual puede ser consultado en dcrdata.org, el explorador de bloques de Decred.
 
 ## El Tesoro
 
